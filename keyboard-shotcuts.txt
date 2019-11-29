@@ -1,0 +1,7 @@
+alt, cmd, shif => place cursor on multiple lines
+cmd, d => select the same highlighted word
+alt, up or alt down => move the line up or down
+shift, control, cmd, right => select all in line, keep tapping arrow to expand selection through parent elements.
+shift, control, cmd, left => same as above but to reduce
+cmd, [ => outdent line
+cmd, ] => indent line
