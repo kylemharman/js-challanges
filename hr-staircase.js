@@ -1,8 +1,8 @@
 // Complete the staircase function below.
 function staircase(n) {
     
-    let space = []
-    let hash = []
+    let space = [];
+    let hash = [];
 
     for (let i = 1; i < n; i++) {
         space.push(' ')
