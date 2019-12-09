@@ -1,8 +1,6 @@
-
-
-
-const nums = [2, 3, 6, 6, 5];
 // const nums = [1,2,3,4,5,6,7,8,9,10];
+const nums = [2, 3, 6, 6, 5];
+
 
 function getSecondLargest(nums) {
     

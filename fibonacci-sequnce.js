@@ -22,11 +22,11 @@ const fibonacci = num => {
         }
         fibSeq.push(currentNum)
         }
-    }
+    };
     console.log(fibSeq);
     console.log(evenFib);
     console.log(fibSeq.filter(e => e % 2 === 0))
     console.log(evenFib.reduce((acc, val) => acc + val));
-}
+};
 
 fibonacci(22)
